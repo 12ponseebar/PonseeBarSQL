@@ -1,5 +1,5 @@
 -- Crear base de datos 'ventas_bar.db' si no existe
--- Esto debe ejecutarse en tu sistema de base de datos SQLite, no necesitas hacerlo manualmente si usas SQLite en Python, pero aquí está el esquema.
+-- Este código crea las tablas necesarias en la base de datos SQLite.
 
 -- Crear tabla de productos
 CREATE TABLE IF NOT EXISTS productos (
