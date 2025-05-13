@@ -1,24 +1,6 @@
 {
-    "[ZEUS]AC": {
-        "1234567890abcdef": {
-            "server_ip": "45.61.186.100:30000",
-            "user_key": "rM1NMXEHhWu7qbJwdqWBFwaDh2jKVLQz4DtiSnPk"
-        },
-        "9876543210abcdef": {
-            "server_ip": "102.129.137.216:20012",
-            "user_key": "4RnFn1hQd5J7wmLS4DYhUQ6g4zNFNHXtEX5P1AB7"
-        },
-        "112233445566778899": {
-            "server_ip": "51.81.48.177:22027",
-            "user_key": "KmdeAn4Neg5tcWmg2TRTZSuYjMye41"
-        },
-        "998877665544332211": {
-            "server_ip": "144.217.16.122:22222",
-            "user_key": "DBPfX0RuxGKueEwAHeiVmeaxYPR7iZVfQJFFjMNh"
-        },
-        "556677889900112233": {
-            "server_ip": "147.135.31.37:22011",
-            "user_key": "40KtvvxmmEJwzrS9WyExd3AEFeRRXi70NeAyKA1N"
-        }
-    }
+    "Productoname": "producto1",
+    "serverIp": "123.123.123.123",
+    "user": "Chandler",
+    "key": "2020"
 }
