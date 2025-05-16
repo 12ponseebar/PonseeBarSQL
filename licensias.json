@@ -1,6 +1,6 @@
 {
     "Productoname": "producto1",
-    "serverIp": "123.123.123.123",
+    "serverIp": "192.168.110.150:",
     "user": "Chandler",
     "key": "2020"
 }
