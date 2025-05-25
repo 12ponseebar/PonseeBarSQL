@@ -1,6 +1,14 @@
 {
-    "Productoname": "producto1",
-    "serverIp": "192.168.110.150:",
-    "user": "Chandler",
-    "key": "2020"
+  "usuarios": [
+    {
+      "user": "servidor1",
+      "key": "abc123",
+      "ip": "123.45.67.89"
+    },
+    {
+      "user": "rpnazzy",
+      "key": "xyz987",
+      "ip": "190.26.70.10"
+    }
+  ]
 }
