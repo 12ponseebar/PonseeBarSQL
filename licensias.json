@@ -3,7 +3,7 @@
     {
       "user": "cliente123",
       "key": "MiClaveSecreta123",
-      "ip": "51.81.57.217"  // La IP del servidor MTA del cliente
+      "ip": "192.99.17.141"  // La IP del servidor MTA del cliente
     }
   ]
 }
