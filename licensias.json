@@ -1,14 +1,9 @@
 {
   "usuarios": [
     {
-      "user": "servidor1",
-      "key": "abc123",
-      "ip": "51.81.49.142"
-    },
-    {
-      "user": "rpnazzy",
-      "key": "xyz987",
-      "ip": "192.168.110.150"
+      "user": "cliente123",
+      "key": "MiClaveSecreta123",
+      "ip": "123.123.123.123"  // La IP del servidor MTA del cliente
     }
   ]
 }
