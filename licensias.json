@@ -1,9 +1,227 @@
-{
-  "usuarios": [
-    {
-      "user": "cliente123",
-      "key": "MiClaveSecreta123",
-      "ip": "192.99.17.141"  // La IP del servidor MTA del cliente
-    }
-  ]
-}
+[
+  {
+    "usuarios": [
+      {
+        "user": "cliente1",
+        "key": "MiClaveSecreta1",
+        "ip": "192.99.17.1"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente2",
+        "key": "MiClaveSecreta2",
+        "ip": "192.99.17.2"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente3",
+        "key": "MiClaveSecreta3",
+        "ip": "192.99.17.3"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente4",
+        "key": "MiClaveSecreta4",
+        "ip": "192.99.17.4"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente5",
+        "key": "MiClaveSecreta5",
+        "ip": "192.99.17.5"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente6",
+        "key": "MiClaveSecreta6",
+        "ip": "192.99.17.6"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente7",
+        "key": "MiClaveSecreta7",
+        "ip": "192.99.17.7"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente8",
+        "key": "MiClaveSecreta8",
+        "ip": "192.99.17.8"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente9",
+        "key": "MiClaveSecreta9",
+        "ip": "192.99.17.9"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente10",
+        "key": "MiClaveSecreta10",
+        "ip": "192.99.17.10"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente11",
+        "key": "MiClaveSecreta11",
+        "ip": "192.99.17.11"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente12",
+        "key": "MiClaveSecreta12",
+        "ip": "192.99.17.12"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente13",
+        "key": "MiClaveSecreta13",
+        "ip": "192.99.17.13"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente14",
+        "key": "MiClaveSecreta14",
+        "ip": "192.99.17.14"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente15",
+        "key": "MiClaveSecreta15",
+        "ip": "192.99.17.15"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente16",
+        "key": "MiClaveSecreta16",
+        "ip": "192.99.17.16"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente17",
+        "key": "MiClaveSecreta17",
+        "ip": "192.99.17.17"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente18",
+        "key": "MiClaveSecreta18",
+        "ip": "192.99.17.18"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente19",
+        "key": "MiClaveSecreta19",
+        "ip": "192.99.17.19"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente20",
+        "key": "MiClaveSecreta20",
+        "ip": "192.99.17.20"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente21",
+        "key": "MiClaveSecreta21",
+        "ip": "192.99.17.21"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente22",
+        "key": "MiClaveSecreta22",
+        "ip": "192.99.17.22"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente23",
+        "key": "MiClaveSecreta23",
+        "ip": "192.99.17.23"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente24",
+        "key": "MiClaveSecreta24",
+        "ip": "192.99.17.24"
+      }
+    ]
+  },
+  {
+    "usuarios": [
+      {
+        "user": "cliente25",
+        "key": "MiClaveSecreta25",
+        "ip": "192.99.17.25"
+      }
+    ]
+  }
+]
