@@ -1,98 +1,64 @@
 {
   "[PX]AC": {
-    "OtherWayRp": {
-      "server_ip": "5.39.63.207:5004",
-      "user_key": "111212121"
+    "NewUser1": {
+      "server_ip": "0.0.0.0",
+      "user_key": "G7qz3XhdnYMA9Tr1k5LwPbF6mEJv0KUZ"
     },
-    "123": {
-      "server_ip": "190.217.20.38",
-      "user_key": "234"
+    "NewUser2": {
+      "server_ip": "0.0.0.0",
+      "user_key": "Aq91VskFHcRpU3bdM0oEXZ48TfYLn6wN"
     },
-    "1291460444640247945": {
-      "server_ip": "45.61.186.100:30000",
-      "user_key": "rM1NMXEHhWu7qbJwdqWBFwaDh2jKVLQz4DtiSnPk"
-    }
-  },
-  "ACXChat": {
-    "AccionXRp": {
-      "server_ip": "45.126.208.136:22070",
-      "user_key": "204558053438005269"
+    "NewUser3": {
+      "server_ip": "0.0.0.0",
+      "user_key": "4EjTkp7RbHoMWqXZd9YvfNAQm1UsGcLi"
     },
-    "AccionXRp2": {
-      "server_ip": "45.126.208.136:22070",
-      "user_key": "1204558053438005269"
+    "NewUser4": {
+      "server_ip": "0.0.0.0",
+      "user_key": "F9yLZhD8rAmot3CpEUGiJ7X0KqNsV4bB"
     },
-    "1243659117512491101": {
-      "server_ip": "51.81.48.177:22023",
-      "user_key": "dqayi4nAC6cXznnkf49h20AdY2HQJfr7gkqbNPED"
+    "NewUser5": {
+      "server_ip": "0.0.0.0",
+      "user_key": "W0XrzNEuJgbQ8L3sC5yOAfMtYqVK17pi"
     },
-    "1299254694002036749": {
-      "server_ip": "51.81.48.177:22027",
-      "user_key": "KmdeAn4Neg5tcWmg2TRTZSuYjMye41"
+    "NewUser6": {
+      "server_ip": "0.0.0.0",
+      "user_key": "qzLp84vHaGWcTosX1bEKMYn92RfJiFD3"
     },
-    "1227780335761100822": {
-      "server_ip": "45.45.238.25:10000",
-      "user_key": "3czvV8PCMBSSLLxuBFV54STvSvJ71SDSb3byXP9H"
+    "NewUser7": {
+      "server_ip": "0.0.0.0",
+      "user_key": "NyU1PfAxk0vQTJg9BMlCRZh7W38meoDn"
     },
-    "1204651048": {
-      "server_ip": "5.39.63.207",
-      "user_key": "346718223"
+    "NewUser8": {
+      "server_ip": "0.0.0.0",
+      "user_key": "JHgcXMNRkwlZ15eTiqFv9UO4s2yaBQpm"
     },
-    "1186355965474390248": {
-      "server_ip": "51.81.48.177:22043",
-      "user_key": "fJqqpqYMPKAKu0bTj2p8Jy0i0wbX03"
+    "NewUser9": {
+      "server_ip": "0.0.0.0",
+      "user_key": "Kpd6OmxARuZtY9CLqeh1fF0M8iBGn32v"
     },
-    "FLAKO": {
-      "server_ip": "45.61.186.100:30002",
-      "user_key": "KAKAKALDP"
+    "NewUser10": {
+      "server_ip": "0.0.0.0",
+      "user_key": "XtLR8aUd3BN1mpgyHjQZoKYv2CMIfekw"
     },
-    "928857514110513253": {
-      "server_ip": "147.135.31.37:22011",
-      "user_key": "40KtvvxmmEJwzrS9WyExd3AEFeRRXi70NeAyKA1N"
+    "NewUser11": {
+      "server_ip": "0.0.0.0",
+      "user_key": "TvYFMg4EHA1z2kCDnJLopqXIBr76Nu9w"
     },
-    "1193606938701856878": {
-      "server_ip": "198.1.195.82:22003",
-      "user_key": "GLri0TfJc5dfCzEvAD12Tb7vGfr62auUZNAuTfNm"
-    }
-  },
-  "[F7]AC-V1.0": {
-    "USER AQUI": {
-      "server_ip": "SERVER IP",
-      "user_key": "KEY AQUI"
+    "NewUser12": {
+      "server_ip": "0.0.0.0",
+      "user_key": "eYN5V0PtAxgFbJWKlMr3oTiqZd7U9m6C"
     },
-    "TEST": {
-      "server_ip": "71.58.239.210:22003",
-      "user_key": "TEST"
-    }
-  },
-  "[F7]AC-Trigger": {
-    "USER AQUI": {
-      "server_ip": "SERVER IP",
-      "user_key": "KEY AQUI"
+    "NewUser13": {
+      "server_ip": "0.0.0.0",
+      "user_key": "zUqW9eKmVxYHtLdM0aC8FnGjRPoT1s4X"
     },
-    "TEST": {
-      "server_ip": "71.58.239.210:22003",
-      "user_key": "TEST"
+    "NewUser14": {
+      "server_ip": "0.0.0.0",
+      "user_key": "MnCxY4ZAFKtJWvbq5TEHoRgUiS91dL37"
     },
-    "1291460444640247945": {
-      "server_ip": "45.61.186.100:30000",
-      "user_key": "rM1NMXEHhWu7qbJwdqWBFwaDh2jKVLQz4DtiSnPk"
-    },
-    "1116025597806780416": {
-      "server_ip": "45.61.186.100:30002",
-      "user_key": "4RnFn1hQd5J7wmLS4DYhUQ6g4zNFNHXtEX5P1AB7"
-    },
-    "1243659117512491101": {
-      "server_ip": "51.81.48.177:22023",
-      "user_key": "dqayi4nAC6cXznnkf49h20AdY2HQJfr7gkqbNPED"
-    },
-    "928857514110513253": {
-      "server_ip": "147.135.31.37:22011",
-      "user_key": "TMkRMjeQiqZAfqj34X34kLnjdug3ZZ"
-    },
-    "1350751503497039952": {
-      "server_ip": "192.99.241.164:22003",
-      "user_key": "Y6tZfum3f01U4xQZfYLtUR7BwxZwbJ"
+    "NewUser15": {
+      "server_ip": "0.0.0.0",
+      "user_key": "Ykq58PmLEzt0NXfMogUa14BDWshvrC7T"
     }
   }
 }
