@@ -2,63 +2,78 @@
   "[PX]AC": {
     "NewUser1": {
       "server_ip": "0.0.0.0",
-      "user_key": "G7qz3XhdnYMA9Tr1k5LwPbF6mEJv0KUZ"
+      "user_key": "G7qz3XhdnYMA9Tr1k5LwPbF6mEJv0KUZ",
+      "comment": ""
     },
     "NewUser2": {
       "server_ip": "0.0.0.0",
-      "user_key": "Aq91VskFHcRpU3bdM0oEXZ48TfYLn6wN"
+      "user_key": "Aq91VskFHcRpU3bdM0oEXZ48TfYLn6wN",
+      "comment": ""
     },
     "NewUser3": {
       "server_ip": "0.0.0.0",
-      "user_key": "4EjTkp7RbHoMWqXZd9YvfNAQm1UsGcLi"
+      "user_key": "4EjTkp7RbHoMWqXZd9YvfNAQm1UsGcLi",
+      "comment": ""
     },
     "NewUser4": {
       "server_ip": "0.0.0.0",
-      "user_key": "F9yLZhD8rAmot3CpEUGiJ7X0KqNsV4bB"
+      "user_key": "F9yLZhD8rAmot3CpEUGiJ7X0KqNsV4bB",
+      "comment": ""
     },
     "NewUser5": {
       "server_ip": "0.0.0.0",
-      "user_key": "W0XrzNEuJgbQ8L3sC5yOAfMtYqVK17pi"
+      "user_key": "W0XrzNEuJgbQ8L3sC5yOAfMtYqVK17pi",
+      "comment": ""
     },
     "NewUser6": {
       "server_ip": "0.0.0.0",
-      "user_key": "qzLp84vHaGWcTosX1bEKMYn92RfJiFD3"
+      "user_key": "qzLp84vHaGWcTosX1bEKMYn92RfJiFD3",
+      "comment": ""
     },
     "NewUser7": {
       "server_ip": "0.0.0.0",
-      "user_key": "NyU1PfAxk0vQTJg9BMlCRZh7W38meoDn"
+      "user_key": "NyU1PfAxk0vQTJg9BMlCRZh7W38meoDn",
+      "comment": ""
     },
     "NewUser8": {
       "server_ip": "0.0.0.0",
-      "user_key": "JHgcXMNRkwlZ15eTiqFv9UO4s2yaBQpm"
+      "user_key": "JHgcXMNRkwlZ15eTiqFv9UO4s2yaBQpm",
+      "comment": ""
     },
     "NewUser9": {
       "server_ip": "0.0.0.0",
-      "user_key": "Kpd6OmxARuZtY9CLqeh1fF0M8iBGn32v"
+      "user_key": "Kpd6OmxARuZtY9CLqeh1fF0M8iBGn32v",
+      "comment": ""
     },
     "NewUser10": {
       "server_ip": "0.0.0.0",
-      "user_key": "XtLR8aUd3BN1mpgyHjQZoKYv2CMIfekw"
+      "user_key": "XtLR8aUd3BN1mpgyHjQZoKYv2CMIfekw",
+      "comment": ""
     },
     "NewUser11": {
       "server_ip": "0.0.0.0",
-      "user_key": "TvYFMg4EHA1z2kCDnJLopqXIBr76Nu9w"
+      "user_key": "TvYFMg4EHA1z2kCDnJLopqXIBr76Nu9w",
+      "comment": ""
     },
     "NewUser12": {
       "server_ip": "0.0.0.0",
-      "user_key": "eYN5V0PtAxgFbJWKlMr3oTiqZd7U9m6C"
+      "user_key": "eYN5V0PtAxgFbJWKlMr3oTiqZd7U9m6C",
+      "comment": ""
     },
     "NewUser13": {
       "server_ip": "0.0.0.0",
-      "user_key": "zUqW9eKmVxYHtLdM0aC8FnGjRPoT1s4X"
+      "user_key": "zUqW9eKmVxYHtLdM0aC8FnGjRPoT1s4X",
+      "comment": ""
     },
     "NewUser14": {
       "server_ip": "0.0.0.0",
-      "user_key": "MnCxY4ZAFKtJWvbq5TEHoRgUiS91dL37"
+      "user_key": "MnCxY4ZAFKtJWvbq5TEHoRgUiS91dL37",
+      "comment": ""
     },
     "NewUser15": {
       "server_ip": "0.0.0.0",
-      "user_key": "Ykq58PmLEzt0NXfMogUa14BDWshvrC7T"
+      "user_key": "Ykq58PmLEzt0NXfMogUa14BDWshvrC7T",
+      "comment": ""
     }
   }
 }
