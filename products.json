@@ -5,25 +5,25 @@
       "user_key": "234",
       "comment": "Expira Nunca Server De Prueba "
     },
-    "NewUser2": {
+    "PX01": {
       "server_ip": "0.0.0.0",
-      "user_key": "Aq91VskFHcRpU3bdM0oEXZ48TfYLn6wN",
-      "comment": ""
+      "user_key": "SorteoJPXAC01",
+      "comment": "Fecha De Expiracion Permanente Clips Gaming AC"
     },
-    "NewUser3": {
+    "PX02": {
       "server_ip": "0.0.0.0",
-      "user_key": "4EjTkp7RbHoMWqXZd9YvfNAQm1UsGcLi",
-      "comment": ""
+      "user_key": "SorteoJPXAC02",
+      "comment": "Fecha De Expiracion De 01/07/2025 Expira : 30/07/2025"
     },
-    "NewUser4": {
+    "PX03": {
       "server_ip": "0.0.0.0",
-      "user_key": "F9yLZhD8rAmot3CpEUGiJ7X0KqNsV4bB",
-      "comment": ""
+      "user_key": "SorteoJPXAC03",
+      "comment": "Fecha De Expiracion De 01/07/2025 Expira : 30/07/2025"
     },
-    "NewUser5": {
+    "PX04": {
       "server_ip": "0.0.0.0",
-      "user_key": "W0XrzNEuJgbQ8L3sC5yOAfMtYqVK17pi",
-      "comment": ""
+      "user_key": "SorteoJPXAC04",
+      "comment": "Fecha De Expiracion De 01/07/2025 Expira : 30/07/2025"
     },
     "NewUser6": {
       "server_ip": "0.0.0.0",
