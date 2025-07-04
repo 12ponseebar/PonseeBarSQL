@@ -50,10 +50,10 @@
       "user_key": "XtLR8aUd3BN1mpgyHjQZoKYv2CMIfekw",
       "comment": ""
     },
-    "NewUser11": {
-      "server_ip": "0.0.0.0",
-      "user_key": "TvYFMg4EHA1z2kCDnJLopqXIBr76Nu9w",
-      "comment": ""
+    "TEST": {
+      "server_ip": "190.217.20.38",
+      "user_key": "TEST",
+      "comment": "Sin Expiracion"
     },
     "NewUser12": {
       "server_ip": "0.0.0.0",
