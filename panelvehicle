@@ -1,1 +1,80 @@
 
+{
+  "[PX]PanelVehicle": {
+    "124963531138": {
+      "server_ip": "190.217.20.39",
+      "user_key": "9991483937947",
+      "comment": "03/08/2025 Josias MTA"
+    },
+    "TEST": {
+      "server_ip": "45.45.238.74",
+      "user_key": "TEST",
+      "comment": "Fecha De Expiracion Permanente Clips Gaming AC"
+    },
+    "OthWayRp": {
+      "server_ip": "102.129.137.134",
+      "user_key": "1204651048346718223",
+      "comment": "Fecha De Expiracion De Permanente Server Kapony Rp"
+    },
+    "PX03": {
+      "server_ip": "0.0.0.0",
+      "user_key": "SorteoJPXAC03",
+      "comment": "Fecha De Expiracion De 01/07/2025 Expira : 30/07/2025"
+    },
+    "PX04": {
+      "server_ip": "0.0.0.0",
+      "user_key": "SorteoJPXAC04",
+      "comment": "Fecha De Expiracion De 01/07/2025 Expira : 30/07/2025"
+    },
+    "NewUser6": {
+      "server_ip": "0.0.0.0",
+      "user_key": "qzLp84vHaGWcTosX1bEKMYn92RfJiFD3",
+      "comment": ""
+    },
+    "NewUser7": {
+      "server_ip": "0.0.0.0",
+      "user_key": "NyU1PfAxk0vQTJg9BMlCRZh7W38meoDn",
+      "comment": ""
+    },
+    "NewUser8": {
+      "server_ip": "0.0.0.0",
+      "user_key": "JHgcXMNRkwlZ15eTiqFv9UO4s2yaBQpm",
+      "comment": ""
+    },
+    "NewUser9": {
+      "server_ip": "0.0.0.0",
+      "user_key": "Kpd6OmxARuZtY9CLqeh1fF0M8iBGn32v",
+      "comment": ""
+    },
+    "NewUser10": {
+      "server_ip": "0.0.0.0",
+      "user_key": "XtLR8aUd3BN1mpgyHjQZoKYv2CMIfekw",
+      "comment": ""
+    },
+    "TEST": {
+      "server_ip": "190.217.20.38",
+      "user_key": "TEST",
+      "comment": "Sin Expiracion"
+    },
+    "NewUser12": {
+      "server_ip": "0.0.0.0",
+      "user_key": "eYN5V0PtAxgFbJWKlMr3oTiqZd7U9m6C",
+      "comment": ""
+    },
+    "NewUser13": {
+      "server_ip": "0.0.0.0",
+      "user_key": "zUqW9eKmVxYHtLdM0aC8FnGjRPoT1s4X",
+      "comment": ""
+    },
+    "NewUser14": {
+      "server_ip": "0.0.0.0",
+      "user_key": "MnCxY4ZAFKtJWvbq5TEHoRgUiS91dL37",
+      "comment": ""
+    },
+    "NewUser15": {
+      "server_ip": "0.0.0.0",
+      "user_key": "Ykq58PmLEzt0NXfMogUa14BDWshvrC7T",
+      "comment": ""
+    }
+  }
+}
