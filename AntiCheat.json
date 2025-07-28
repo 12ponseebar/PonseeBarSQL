@@ -1,66 +1,8 @@
 {
   "admin": {
-    "password": "admin123",
-    "hwid": "",
+    "key": "admin123",
     "expires": "2024-12-31",
     "plan": "premium",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "test": {
-    "password": "test123",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "basic",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "demo": {
-    "password": "demo123",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "premium",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "user1": {
-    "password": "user123",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "basic",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "user2": {
-    "password": "user456",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "premium",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "lockpixel": {
-    "password": "lockpixel2024",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "premium",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "developer": {
-    "password": "dev2024",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "premium",
-    "created": "2024-01-01",
-    "status": "active"
-  },
-  "beta": {
-    "password": "beta123",
-    "hwid": "",
-    "expires": "2024-12-31",
-    "plan": "basic",
-    "created": "2024-01-01",
     "status": "active"
   }
 }
