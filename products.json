@@ -1,8 +1,8 @@
 {
   "[PX]AC": {
-    "124963531138": {
-      "server_ip": "190.217.20.39",
-      "user_key": "9991483937947",
+    "serverchandler": {
+      "server_ip": "15.235.4.168",
+      "user_key": "chandlerserver",
       "comment": "03/08/2025 Josias MTA"
     },
    "1344446990783877244": {
@@ -77,4 +77,5 @@
     }
   }
 }
+
 
